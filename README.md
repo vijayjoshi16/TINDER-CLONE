@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/vijayjoshi16/TINDER-CLONE/main/Screenshots/01.png"/>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
